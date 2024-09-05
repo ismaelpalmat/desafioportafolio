@@ -1,0 +1,19 @@
+
+    .button {
+        background-color: cadetblue;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      .button:hover {
+        background-color: rgb(115, 185, 187);
+      }
+    
+      /* .bg {
+        background-color: rgb(250, 255, 250);
+
+      } */
